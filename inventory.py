@@ -141,7 +141,7 @@ win.title("Login")
 win.geometry("2160x2160")
 #bg_image = tk.PhotoImage(file="ss.png")
 
-backgroundImage=ImageTk.PhotoImage(file=r'C:\Users\HP\OneDrive\Desktop\project\login image.jpg')
+backgroundImage=ImageTk.PhotoImage(file=r'C:\Users\HP\OneDrive\Desktop\project\inventory management\login image.jpg')
 bgLabel=Label(win,image=backgroundImage)
 bgLabel.place(x=0,y=0)
 
@@ -177,7 +177,7 @@ window = tk.Tk()
 window.title("Shopping Mall Management System")
 window.geometry("2160x2160")
 
-backgroundImage=ImageTk.PhotoImage(file=r'C:\Users\HP\OneDrive\Desktop\project\image.jpg')
+backgroundImage=ImageTk.PhotoImage(file=r'C:\Users\HP\OneDrive\Desktop\project\inventory management\image.jpg')
 bgLabel=Label(window,image=backgroundImage)
 bgLabel.place(x=0,y=0)
 
